@@ -16,8 +16,8 @@ Predicts loan approval using a Neural Network in TensorFlow. Includes feature sc
 - Metrics: Accuracy, F1 Score
 
 ## Results
-- Validation Accuracy: 0.7723577235772358%
-- F1 Score: 0.8390804597701149%
+- Validation Accuracy: ~0.77%
+- F1 Score: ~0.84%
 - Confusion matrix visualization included
 
 ## Usage
